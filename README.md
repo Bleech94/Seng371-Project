@@ -18,8 +18,8 @@ Could compare 3 and 4 to potentially create a relationship between developer's c
 Codebases/Systems you will analyze*
 Mozilla or Linux TBD
 
-Project milestones
-1) Run tools on codebase
+\nProject milestones
+\n1) Run tools on codebase
 2) Analyze GitHub statistics, and internal documentation/official website
 3) Compare data
 4) Summarize findings
