@@ -1,5 +1,7 @@
 # Seng371-Project
 
+ BY JORIN WEATHERSTON AND BRANDON LEECH
+
 Your project question:
 
 -Can we determine the hierarchical organization and the social structure within an organization from looking at the code and documentation.
