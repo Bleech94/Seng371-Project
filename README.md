@@ -14,6 +14,13 @@ Methodology (including the tools you expect to use)*
 
 1) Documentation to determine the actual hierarchical organization, including things like comments on GitHub.
 
+http://mail-archives.apache.org/mod_mbox/ant-dev/
+
+https://github.com/apache/ant/graphs/contributors?from=2001-12-18&to=2002-02-01&type=c
+
+http://ant.apache.org/contributors.html
+
+
 2) Gource to estimate the impact of individual developers on code 
 
 3) Some tool to view each individual developer's contribution to the code. 
@@ -26,7 +33,7 @@ Could compare 3 and 4 to potentially create a relationship between developer's c
 
 Codebases/Systems you will analyze*
 
-Mozilla or Linux TBD
+Apache Ant
 
 
 
