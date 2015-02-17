@@ -1,16 +1,26 @@
+
+      
+
+        
+
+
+
 # Seng371-Project
 
  BY JORIN WEATHERSTON AND BRANDON LEECH
 
-Your project question:
+Project Question:
 
--Can we determine the hierarchical organization and the social structure within an organization from looking at the code and documentation.
+-Can we determine the hierarchical organization and the social structure within an organization from looking at the code and documentation?
 
 Example: Can we see that someone high up in the company has as much influence in the project as their title suggests? 
 
+Why its Important: (TODO add in why you think it is important, and could be of general interest to other software developers as well!)
 
 
-Methodology (including the tools you expect to use)*
+
+
+Methodology and Tools
 
 1) Documentation to determine the actual hierarchical organization, including things like comments on GitHub.
 
@@ -36,8 +46,28 @@ Codebases/Systems you will analyze*
 Apache Ant
 
 
+TODO: * a list of the metrics you are collecting, justifying their use in
+answering your question
 
-Project milestones
+
+Our Tool:
+* a copy of your source code, and instructions on how people can compile
+/ run your code
+
+
+Results: TODO ( * these should be reproducible, so be sure to identify any magic that happened in the process of getting them!  * include raw results, aggregates, visualizations, you name it!)
+
+
+Analysis of Results: TODO
+
+
+Conclusion: TODO (   * an answer to your original question based on these data sources and your methodology * threats to validity * future work)
+
+
+Project Management:
+
+
+Milestones:
 
 1) Run tools on codebase
 
@@ -48,3 +78,6 @@ Project milestones
 4) Summarize findings
 
 
+Roles of Team Members:
+
+TODO
