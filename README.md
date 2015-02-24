@@ -50,10 +50,13 @@ Our data creation process involves a few major stages that rely on existing tool
 
 ##Results
 While processing 66000+ emails we were able to clearly pick out some of the major contributors of Apache Ant. Some specific names seemed to show up a lot, and some were sent by the same person 10 years apart. One of these people is Stefan Bodewig who can be found near the top of the list of the Project Management Committee on the Apache Ant project site. 
-We were not able to prepare final data into a form that we could draw further results from. Our issues are detailed below. 
-Analysis of Results/Issues
+We were not able to prepare final data into a form that we could draw further results from. Our issues are detailed below.
+
+##Analysis of Results/Issues
 In our process of collecting and parsing data we hit some major hurdles. This has essentially stopped us from being able to fully report our findings. While through simple observation of individuals and their frequent participation in both emails and github contributions it is possible to see that in some cases the people who communicate most frequently do also contribute to code a lot too. But this is not something which we have found through data analysis. 
+
 Our stopping issue was parsing of the csvs that we generated in the 3rd step in our Tools section. The email subjects for developers contain many characters that most people would not include anywhere else. Our plan was to use regular expressions to parse the strings of subject/from pairs, but there are escaped characters, regular expressions, and all manner of reserved characters in use when developers email one another. This means that the parser crashes for a massive number of special cases and scenarios. This is exacerbated by our data spanning 15 years on a large project, and would only get worse for larger projects. 
+
 Moving forward a different approach for rendering our data useful needs to be adopted if we are to make progress for project 2. 
 
 ##Conclusion
