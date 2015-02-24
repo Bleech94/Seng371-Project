@@ -18,6 +18,7 @@ In this project the goal is to, based on the communications that occur, infer th
 ##Project Question
 Our formal project question is as follows:
 “Can we determine the hierarchical organization and the social structure within an organization from looking at the codebase and internal communication?”
+
 An example of a situationally specific question is: “Can we see that someone high up in the company has as much influence in the project as their title suggests?”
 
 ##Importance
@@ -50,6 +51,7 @@ Our data creation process involves a few major stages that rely on existing tool
 
 ##Results
 While processing 66000+ emails we were able to clearly pick out some of the major contributors of Apache Ant. Some specific names seemed to show up a lot, and some were sent by the same person 10 years apart. One of these people is Stefan Bodewig who can be found near the top of the list of the Project Management Committee on the Apache Ant project site. 
+
 We were not able to prepare final data into a form that we could draw further results from. Our issues are detailed below.
 
 ##Analysis of Results/Issues
